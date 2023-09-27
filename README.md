@@ -1,11 +1,3 @@
-# Object Detection Service
-
-**Due date**: 2023-09-20
-
-## Update I (2023-09-06)
-
-In the `yolo5/Dockerfile` update the `curl` command as follows (the `-L` flag was added):
-
 ## Background
 
 In this project, you'll design, develop and deploy an object detection service that consists of multiple containerized microservices. 
